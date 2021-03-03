@@ -1,1 +1,1 @@
-![This is me, Marina](https://github.com/marandnie/MarAndNie.github.io/blob/main/pelo.jpg)
+![This is me, Marina](https://raw.githubusercontent.com/marandnie/MarAndNie.github.io/main/pelo.jpg)
